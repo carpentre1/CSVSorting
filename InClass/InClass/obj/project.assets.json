@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\slowpoke\\.nuget\\packages\\": {},
+    "C:\\Users\\justin.carpenter\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\slowpoke\\D2-1.14b-Installer-enUS\\Desktop\\InClass\\InClass\\InClass.csproj",
+      "projectUniqueName": "C:\\Users\\justin.carpenter\\Documents\\GitHub\\CSVSorting\\InClass\\InClass\\InClass.csproj",
       "projectName": "InClass",
-      "projectPath": "C:\\Users\\slowpoke\\D2-1.14b-Installer-enUS\\Desktop\\InClass\\InClass\\InClass.csproj",
-      "packagesPath": "C:\\Users\\slowpoke\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\slowpoke\\D2-1.14b-Installer-enUS\\Desktop\\InClass\\InClass\\obj\\",
+      "projectPath": "C:\\Users\\justin.carpenter\\Documents\\GitHub\\CSVSorting\\InClass\\InClass\\InClass.csproj",
+      "packagesPath": "C:\\Users\\justin.carpenter\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\justin.carpenter\\Documents\\GitHub\\CSVSorting\\InClass\\InClass\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\slowpoke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\justin.carpenter\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
